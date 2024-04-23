@@ -1,0 +1,680 @@
+oly_game,event_title,event_gender,medal_type,athlete_full_name,country_name,country_code,year
+tokyo-2020,Men's 61kg,Men,SILVER,Eko Yuli IRAWAN,Indonesia,INA,2020
+tokyo-2020,Men's 61kg,Men,GOLD,Fabin LI,People's Republic of China,CHN,2020
+tokyo-2020,Men's 61kg,Men,BRONZE,Igor SON,Kazakhstan,KAZ,2020
+tokyo-2020,Women's 55kg,Women,SILVER,Qiuyun LIAO,People's Republic of China,CHN,2020
+tokyo-2020,Women's 55kg,Women,BRONZE,Zulfiya CHINSHANLO,Kazakhstan,KAZ,2020
+tokyo-2020,Women's 55kg,Women,GOLD,Hidilyn DIAZ,Philippines,PHI,2020
+tokyo-2020,Men's 67kg,Men,BRONZE,Mirko ZANNI,Italy,ITA,2020
+tokyo-2020,Men's 67kg,Men,SILVER,Luis Javier MOSQUERA LOZANO,Colombia,COL,2020
+tokyo-2020,Men's 67kg,Men,GOLD,Lijun CHEN,People's Republic of China,CHN,2020
+tokyo-2020,Men's 81kg,Men,GOLD,Xiaojun LYU,People's Republic of China,CHN,2020
+tokyo-2020,Men's 81kg,Men,SILVER,Zacarias BONNAT MICHEL,Dominican Republic,DOM,2020
+tokyo-2020,Men's 81kg,Men,BRONZE,Antonino PIZZOLATO,Italy,ITA,2020
+tokyo-2020,Women's +87kg,Women,BRONZE,Sarah ROBLES,United States of America,USA,2020
+tokyo-2020,Women's +87kg,Women,SILVER,Emily Jade CAMPBELL,Great Britain,GBR,2020
+tokyo-2020,Women's +87kg,Women,GOLD,Wenwen LI,People's Republic of China,CHN,2020
+tokyo-2020,Women's 87kg,Women,SILVER,Tamara Yajaira SALAZAR ARCE,Ecuador,ECU,2020
+tokyo-2020,Women's 87kg,Women,BRONZE,Cismery Dominga SANTANA PEGUERO,Dominican Republic,DOM,2020
+tokyo-2020,Women's 87kg,Women,GOLD,Zhouyu WANG,People's Republic of China,CHN,2020
+tokyo-2020,Men's +109kg,Men,BRONZE,Man ASAAD,Syrian Arab Republic,SYR,2020
+tokyo-2020,Men's +109kg,Men,GOLD,Lasha TALAKHADZE,Georgia,GEO,2020
+tokyo-2020,Men's +109kg,Men,SILVER,Ali DAVOUDI,Islamic Republic of Iran,IRI,2020
+tokyo-2020,Women's 59kg,Women,SILVER,Polina GURYEVA,Turkmenistan,TKM,2020
+tokyo-2020,Women's 59kg,Women,BRONZE,Mikiko ANDOH,Japan,JPN,2020
+tokyo-2020,Women's 59kg,Women,GOLD,Hsing-Chun KUO,Chinese Taipei,TPE,2020
+tokyo-2020,Women's 64kg,Women,GOLD,Maude G CHARRON,Canada,CAN,2020
+tokyo-2020,Women's 64kg,Women,SILVER,Giorgia BORDIGNON,Italy,ITA,2020
+tokyo-2020,Women's 64kg,Women,BRONZE,Wen-Huei CHEN,Chinese Taipei,TPE,2020
+tokyo-2020,Men's 73kg,Men,GOLD,Zhiyong SHI,People's Republic of China,CHN,2020
+tokyo-2020,Men's 73kg,Men,SILVER,Julio Ruben MAYORA PERNIA,Venezuela,VEN,2020
+tokyo-2020,Men's 73kg,Men,BRONZE,Rahmat Erwin ABDULLAH,Indonesia,INA,2020
+tokyo-2020,Women's 49kg,Women,SILVER,Chanu Saikhom MIRABAI CHANU,India,IND,2020
+tokyo-2020,Women's 49kg,Women,BRONZE,Windy Cantika AISAH,Indonesia,INA,2020
+tokyo-2020,Women's 49kg,Women,GOLD,Zhihui HOU,People's Republic of China,CHN,2020
+tokyo-2020,Men's 96kg,Men,SILVER,Keydomar Giovanni VALLENILLA SANCHEZ,Venezuela,VEN,2020
+tokyo-2020,Men's 96kg,Men,GOLD,Fares Ibrahim E. H. ELBAKH,Qatar,QAT,2020
+tokyo-2020,Men's 96kg,Men,BRONZE,Anton PLIESNOI,Georgia,GEO,2020
+tokyo-2020,Women's 76kg,Women,BRONZE,Aremi FUENTES ZAVALA,Mexico,MEX,2020
+tokyo-2020,Women's 76kg,Women,GOLD,Neisi Patricia DAJOMES BARRERA,Ecuador,ECU,2020
+tokyo-2020,Women's 76kg,Women,SILVER,Katherine Elizabeth NYE,United States of America,USA,2020
+tokyo-2020,Men's 109kg,Men,SILVER,Simon MARTIROSYAN,Armenia,ARM,2020
+tokyo-2020,Men's 109kg,Men,BRONZE,Arturs PLESNIEKS,Latvia,LAT,2020
+tokyo-2020,Men's 109kg,Men,GOLD,Akbar DJURAEV,Uzbekistan,UZB,2020
+rio-2016,75kg women,Women,GOLD,Jong Sim RIM,Democratic People's Republic of Korea,PRK,2016
+rio-2016,75kg women,Women,SILVER,Darya NAUMAVA,Belarus,BLR,2016
+rio-2016,75kg women,Women,BRONZE,Lidia VALENTIN PEREZ,Spain,ESP,2016
+rio-2016,63kg women,Women,GOLD,Wei DENG,People's Republic of China,CHN,2016
+rio-2016,63kg women,Women,SILVER,Hyo Sim CHOE,Democratic People's Republic of Korea,PRK,2016
+rio-2016,63kg women,Women,BRONZE,Karina GORICHEVA,Kazakhstan,KAZ,2016
+rio-2016,105kg heavyweight men,Men,GOLD,Ruslan NURUDINOV,Uzbekistan,UZB,2016
+rio-2016,105kg heavyweight men,Men,SILVER,Simon MARTIROSYAN,Armenia,ARM,2016
+rio-2016,105kg heavyweight men,Men,BRONZE,Aleksandr Zaychikov,Kazakhstan,KAZ,2016
+rio-2016,-56kg (bantamweight) men,Men,GOLD,Qingquan LONG,People's Republic of China,CHN,2016
+rio-2016,-56kg (bantamweight) men,Men,SILVER,Yun Chol OM,Democratic People's Republic of Korea,PRK,2016
+rio-2016,-56kg (bantamweight) men,Men,BRONZE,Sinphet KRUAITHONG,Thailand,THA,2016
+rio-2016,53kg women,Women,GOLD,Shu-Ching HSU,Chinese Taipei,TPE,2016
+rio-2016,53kg women,Women,SILVER,Hidilyn DIAZ,Philippines,PHI,2016
+rio-2016,53kg women,Women,BRONZE,Jinhee YOON,Republic of Korea,KOR,2016
+rio-2016,85kg men,Men,GOLD,Kianoush ROSTAMI,Islamic Republic of Iran,IRI,2016
+rio-2016,85kg men,Men,SILVER,Tao TIAN,People's Republic of China,CHN,2016
+rio-2016,85kg men,Men,BRONZE,Denis ULANOV,Kazakhstan,KAZ,2016
+rio-2016,62kg featherweight men,Men,GOLD,Oscar FIGUEROA,Colombia,COL,2016
+rio-2016,62kg featherweight men,Men,SILVER,Eko Yuli IRAWAN,Indonesia,INA,2016
+rio-2016,62kg featherweight men,Men,BRONZE,Farkhad KHARKI,Kazakhstan,KAZ,2016
+rio-2016,+105kg men,Men,GOLD,Lasha TALAKHADZE,Georgia,GEO,2016
+rio-2016,+105kg men,Men,SILVER,Gor MINASYAN,Armenia,ARM,2016
+rio-2016,+105kg men,Men,BRONZE,Irakli TURMANIDZE,Georgia,GEO,2016
+rio-2016,94kg men,Men,GOLD,Sohrab MORADI,Islamic Republic of Iran,IRI,2016
+rio-2016,94kg men,Men,SILVER,Vadim Streltsov,Belarus,BLR,2016
+rio-2016,94kg men,Men,BRONZE,Aurimas DIDZBALIS,Lithuania,LTU,2016
+rio-2016,69kg women,Women,GOLD,Yanmei XIANG,People's Republic of China,CHN,2016
+rio-2016,69kg women,Women,SILVER,Zhazira ZHAPPARKUL,Kazakhstan,KAZ,2016
+rio-2016,69kg women,Women,BRONZE,Sara AHMED,Egypt,EGY,2016
+rio-2016,+75kg women,Women,GOLD,Suping MENG,People's Republic of China,CHN,2016
+rio-2016,+75kg women,Women,SILVER,Kuk Hyang KIM,Democratic People's Republic of Korea,PRK,2016
+rio-2016,+75kg women,Women,BRONZE,Sarah ROBLES,United States of America,USA,2016
+rio-2016,69kg men,Men,GOLD,Zhiyong SHI,People's Republic of China,CHN,2016
+rio-2016,69kg men,Men,SILVER,Daniyar ISMAYILOV,Turkey,TUR,2016
+rio-2016,69kg men,Men,BRONZE,Luis Javier MOSQUERA LOZANO,Colombia,COL,2016
+rio-2016,58kg women,Women,GOLD,Sukanya SRISURAT,Thailand,THA,2016
+rio-2016,58kg women,Women,SILVER,Pimsiri SIRIKAEW,Thailand,THA,2016
+rio-2016,58kg women,Women,BRONZE,Hsing-Chun KUO,Chinese Taipei,TPE,2016
+rio-2016,77kg men,Men,GOLD,Nidzhat Rakhimov,Kazakhstan,KAZ,2016
+rio-2016,77kg men,Men,SILVER,Xiaojun LÜ,People's Republic of China,CHN,2016
+rio-2016,77kg men,Men,BRONZE,Mohamed Ihab,Egypt,EGY,2016
+rio-2016,48kg women,Women,GOLD,Sopita TANASAN,Thailand,THA,2016
+rio-2016,48kg women,Women,SILVER,Sri Wahyuni AGUSTIANI,Indonesia,INA,2016
+rio-2016,48kg women,Women,BRONZE,Hiromi MIYAKE,Japan,JPN,2016
+london-2012,105kg superheavyweight men,Men,GOLD,Behdad SALIMIKORDASIABI,Islamic Republic of Iran,IRI,2012
+london-2012,105kg superheavyweight men,Men,SILVER,Sajjad ANOUSHIRAVANI HAMLABAD,Islamic Republic of Iran,IRI,2012
+london-2012,105kg superheavyweight men,Men,BRONZE,Ruslan ALBEGOV,Russian Federation,RUS,2012
+london-2012,62kg featherweight men,Men,GOLD,Un Guk KIM,Democratic People's Republic of Korea,PRK,2012
+london-2012,62kg featherweight men,Men,SILVER,Oscar FIGUEROA,Colombia,COL,2012
+london-2012,62kg featherweight men,Men,BRONZE,Eko Yuli IRAWAN,Indonesia,INA,2012
+london-2012,77kg men,Men,GOLD,Xiaojun LÜ,People's Republic of China,CHN,2012
+london-2012,77kg men,Men,SILVER,Haojie LU,People's Republic of China,CHN,2012
+london-2012,77kg men,Men,BRONZE,Ivan CAMBAR RODRIGUEZ,Cuba,CUB,2012
+london-2012,63kg women,Women,GOLD,Christine GIRARD,Canada,CAN,2012
+london-2012,63kg women,Women,SILVER,Milka MANEVA,Bulgaria,BUL,2012
+london-2012,63kg women,Women,BRONZE,Luz Mercedes ACOSTA VALDEZ,Mexico,MEX,2012
+london-2012,105kg heavyweight men,Men,SILVER,Navab NASIRSHELAL,Islamic Republic of Iran,IRI,2012
+london-2012,105kg heavyweight men,Men,BRONZE,Bartlomiej Wojciech BONK,Poland,POL,2012
+london-2012,85kg men,Men,GOLD,Adrian Edward ZIELINSKI,Poland,POL,2012
+london-2012,85kg men,Men,SILVER,Kianoush ROSTAMI,Islamic Republic of Iran,IRI,2012
+london-2012,85kg men,Men,BRONZE,Tarek ABDELAZIM,Egypt,EGY,2012
+london-2012,75kg women,Women,GOLD,Lidia VALENTIN PEREZ,Spain,ESP,2012
+london-2012,75kg women,Women,SILVER,Abir KHALIL,Egypt,EGY,2012
+london-2012,75kg women,Women,BRONZE,Madias Dodo NZESSO NGAKE,Cameroon,CMR,2012
+london-2012,69kg women,Women,GOLD,Jong Sim RIM,Democratic People's Republic of Korea,PRK,2012
+london-2012,69kg women,Women,SILVER,Anna NURMUKHAMBETOVA,Kazakhstan,KAZ,2012
+london-2012,69kg women,Women,BRONZE,Ubaldina VALOYES CUESTA,Colombia,COL,2012
+london-2012,56kg bantamweight men,Men,GOLD,Yun Chol OM,Democratic People's Republic of Korea,PRK,2012
+london-2012,56kg bantamweight men,Men,SILVER,Jingbiao WU,People's Republic of China,CHN,2012
+london-2012,56kg bantamweight men,Men,BRONZE,Valentin HRISTOV,Azerbaijan,AZE,2012
+london-2012,94kg men,Men,GOLD,Saeid MOHAMMADPOURKARKARAGH,Islamic Republic of Iran,IRI,2012
+london-2012,94kg men,Men,SILVER,Min-Jae KIM,Republic of Korea,KOR,2012
+london-2012,94kg men,Men,BRONZE,Tomasz Bernard ZIELINSKI,Poland,POL,2012
+london-2012,53kg women,Women,GOLD,Shu-Ching HSU,Chinese Taipei,TPE,2012
+london-2012,53kg women,Women,SILVER,Citra FEBRIANTI,Indonesia,INA,2012
+london-2012,53kg women,Women,BRONZE,Iuliia PARATOVA,Ukraine,UKR,2012
+london-2012,58kg women,Women,GOLD,Xueying LI,People's Republic of China,CHN,2012
+london-2012,58kg women,Women,SILVER,Pimsiri SIRIKAEW,Thailand,THA,2012
+london-2012,58kg women,Women,BRONZE,Rattikan GULNOI,Thailand,THA,2012
+london-2012,48kg women,Women,GOLD,Mingjuan WANG,People's Republic of China,CHN,2012
+london-2012,48kg women,Women,SILVER,Hiromi MIYAKE,Japan,JPN,2012
+london-2012,48kg women,Women,BRONZE,Chun Hwa RYANG,Democratic People's Republic of Korea,PRK,2012
+london-2012,+75kg women,Women,GOLD,Lulu ZHOU,People's Republic of China,CHN,2012
+london-2012,+75kg women,Women,SILVER,Tatiana KASHIRINA,Russian Federation,RUS,2012
+london-2012,+75kg women,Women,BRONZE,Mi-Ran JANG,Republic of Korea,KOR,2012
+london-2012,69kg men,Men,GOLD,Qingfeng LIN,People's Republic of China,CHN,2012
+london-2012,69kg men,Men,SILVER,TRIYATNO ,Indonesia,INA,2012
+london-2012,69kg men,Men,BRONZE,Myong Hyok KIM,Democratic People's Republic of Korea,PRK,2012
+beijing-2008,105kg heavyweight men,Men,GOLD,Andrey Aryamnov,Belarus,BLR,2008
+beijing-2008,105kg heavyweight men,Men,SILVER,Dmitriy KLOKOV,Russian Federation,RUS,2008
+beijing-2008,105kg heavyweight men,Men,BRONZE,Marcin DOLEGA,Poland,POL,2008
+beijing-2008,94kg men,Men,GOLD,Szymon KOLECKI,Poland,POL,2008
+beijing-2008,94kg men,Men,SILVER,Arsen KASABIJEW,Georgia,GEO,2008
+beijing-2008,94kg men,Men,BRONZE,Yohandrys HERNANDEZ,Cuba,CUB,2008
+beijing-2008,85kg men,Men,GOLD,Yong LU,People's Republic of China,CHN,2008
+beijing-2008,85kg men,Men,SILVER,Tigran Varban MARTIROSYAN,Armenia,ARM,2008
+beijing-2008,85kg men,Men,BRONZE,Jadier VALLADARES,Cuba,CUB,2008
+beijing-2008,69kg women,Women,GOLD,Oxana SLIVENKO,Russian Federation,RUS,2008
+beijing-2008,69kg women,Women,SILVER,Leidy Yessenia SOLIS ARBOLEDA,Colombia,COL,2008
+beijing-2008,69kg women,Women,BRONZE,Abir KHALIL,Egypt,EGY,2008
+beijing-2008,56kg bantamweight men,Men,GOLD,Qingquan LONG,People's Republic of China,CHN,2008
+beijing-2008,56kg bantamweight men,Men,SILVER,Anh Tuan HOANG,Vietnam,VIE,2008
+beijing-2008,56kg bantamweight men,Men,BRONZE,Eko Yuli IRAWAN,Indonesia,INA,2008
+beijing-2008,48kg women,Women,GOLD,Wei-Ling CHEN,Chinese Taipei,TPE,2008
+beijing-2008,48kg women,Women,SILVER,Jeong-Hwa Im,Republic of Korea,KOR,2008
+beijing-2008,48kg women,Women,BRONZE,Pensiri LAOSIRIKUL,Thailand,THA,2008
+beijing-2008,75kg women,Women,GOLD,Alla VAZHENINA,Kazakhstan,KAZ,2008
+beijing-2008,75kg women,Women,SILVER,Lidia VALENTIN PEREZ,Spain,ESP,2008
+beijing-2008,75kg women,Women,BRONZE,Damaris AGUIRRE,Mexico,MEX,2008
+beijing-2008,105kg superheavyweight men,Men,GOLD,Matthias STEINER,Germany,GER,2008
+beijing-2008,105kg superheavyweight men,Men,SILVER,Evgeny CHIGISHEV,Russian Federation,RUS,2008
+beijing-2008,105kg superheavyweight men,Men,BRONZE,Viktors SCERBATIHS,Latvia,LAT,2008
+beijing-2008,63kg women,Women,GOLD,Hyon Suk PAK,Democratic People's Republic of Korea,PRK,2008
+beijing-2008,63kg women,Women,SILVER,Ying-Chi LU,Chinese Taipei,TPE,2008
+beijing-2008,63kg women,Women,BRONZE,Christine GIRARD,Canada,CAN,2008
+beijing-2008,69kg men,Men,GOLD,Hui LIAO,People's Republic of China,CHN,2008
+beijing-2008,69kg men,Men,SILVER,Vencelas DABAYA TIENTCHEU,France,FRA,2008
+beijing-2008,69kg men,Men,BRONZE,Yordanis BORRERO,Cuba,CUB,2008
+beijing-2008,62kg featherweight men,Men,GOLD,Xiangxiang ZHANG,People's Republic of China,CHN,2008
+beijing-2008,62kg featherweight men,Men,SILVER,Diego Fernando SALAZAR,Colombia,COL,2008
+beijing-2008,62kg featherweight men,Men,BRONZE,TRIYATNO ,Indonesia,INA,2008
+beijing-2008,+75kg women,Women,GOLD,Mi-Ran JANG,Republic of Korea,KOR,2008
+beijing-2008,+75kg women,Women,SILVER,Ele OPELOGE,Samoa,SAM,2008
+beijing-2008,+75kg women,Women,BRONZE,Maryam USMAN,Nigeria,NGR,2008
+beijing-2008,58kg women,Women,GOLD,Yanqing CHEN,People's Republic of China,CHN,2008
+beijing-2008,58kg women,Women,SILVER,Jong Ae O,Democratic People's Republic of Korea,PRK,2008
+beijing-2008,58kg women,Women,BRONZE,Wandee KAMEAIM,Thailand,THA,2008
+beijing-2008,77kg men,Men,GOLD,Jaehyouk SA,Republic of Korea,KOR,2008
+beijing-2008,77kg men,Men,SILVER,Hongli LI,People's Republic of China,CHN,2008
+beijing-2008,77kg men,Men,BRONZE,Gevorg DAVTYAN,Armenia,ARM,2008
+beijing-2008,53kg women,Women,GOLD,Prapawadee JAROENRATTANATARAKOON,Thailand,THA,2008
+beijing-2008,53kg women,Women,SILVER,Jinhee YOON,Republic of Korea,KOR,2008
+beijing-2008,53kg women,Women,BRONZE,Raema Lisa RUMBEWAS,Indonesia,INA,2008
+athens-2004,53kg women,Women,GOLD,Udomporn POLSAK,Thailand,THA,2004
+athens-2004,53kg women,Women,SILVER,Raema Lisa RUMBEWAS,Indonesia,INA,2004
+athens-2004,53kg women,Women,BRONZE,Mabel MOSQUERA,Colombia,COL,2004
+athens-2004,105kg superheavyweight men,Men,GOLD,Hossein REZA ZADEH,Islamic Republic of Iran,IRI,2004
+athens-2004,105kg superheavyweight men,Men,SILVER,Viktors SCERBATIHS,Latvia,LAT,2004
+athens-2004,105kg superheavyweight men,Men,BRONZE,Velichko CHOLAKOV,Bulgaria,BUL,2004
+athens-2004,62kg featherweight men,Men,GOLD,Zhiyong SHI,People's Republic of China,CHN,2004
+athens-2004,62kg featherweight men,Men,SILVER,Maosheng LE,People's Republic of China,CHN,2004
+athens-2004,62kg featherweight men,Men,BRONZE,Israel Jose RUBIO,Venezuela,VEN,2004
+athens-2004,48kg women,Women,GOLD,Nurcan TAYLAN,Turkey,TUR,2004
+athens-2004,48kg women,Women,SILVER,Zhuo LI,People's Republic of China,CHN,2004
+athens-2004,48kg women,Women,BRONZE,Aree WIRATTHAWORN,Thailand,THA,2004
+athens-2004,63kg women,Women,GOLD,Nataliya SKAKUN,Ukraine,UKR,2004
+athens-2004,63kg women,Women,SILVER,Anna Batyushko,Belarus,BLR,2004
+athens-2004,63kg women,Women,BRONZE,Tatyana Stukalova,Belarus,BLR,2004
+athens-2004,69kg women,Women,GOLD,Chunhong LIU,People's Republic of China,CHN,2004
+athens-2004,69kg women,Women,SILVER,Eszter KRUTZLER,Hungary,HUN,2004
+athens-2004,69kg women,Women,BRONZE,Zarema KASAEVA,Russian Federation,RUS,2004
+athens-2004,85kg men,Men,GOLD,George ASANIDZE,Georgia,GEO,2004
+athens-2004,85kg men,Men,SILVER,Andrey Rybakov,Belarus,BLR,2004
+athens-2004,85kg men,Men,BRONZE,Pyrros DIMAS,Greece,GRE,2004
+athens-2004,77kg men,Men,GOLD,Taner SAGIR,Turkey,TUR,2004
+athens-2004,77kg men,Men,SILVER,Sergey FILIMONOV,Kazakhstan,KAZ,2004
+athens-2004,77kg men,Men,BRONZE,Reyhan Arabacıoğlu,Turkey,TUR,2004
+athens-2004,94kg men,Men,GOLD,Milen DOBREV,Bulgaria,BUL,2004
+athens-2004,94kg men,Men,SILVER,Khadzhimurat AKKAEV,Russian Federation,RUS,2004
+athens-2004,94kg men,Men,BRONZE,Eduard TYUKIN,Russian Federation,RUS,2004
+athens-2004,58kg women,Women,GOLD,Yanqing CHEN,People's Republic of China,CHN,2004
+athens-2004,58kg women,Women,SILVER,Song Hui RI,Democratic People's Republic of Korea,PRK,2004
+athens-2004,58kg women,Women,BRONZE,Wandee KAMEAIM,Thailand,THA,2004
+athens-2004,75kg women,Women,GOLD,Pawina THONGSUK,Thailand,THA,2004
+athens-2004,75kg women,Women,SILVER,Natalya ZABOLOTNAYA,Russian Federation,RUS,2004
+athens-2004,75kg women,Women,BRONZE,Valentina POPOVA,Russian Federation,RUS,2004
+athens-2004,+75kg women,Women,GOLD,Gonghong TANG,People's Republic of China,CHN,2004
+athens-2004,+75kg women,Women,SILVER,Mi-Ran JANG,Republic of Korea,KOR,2004
+athens-2004,+75kg women,Women,BRONZE,Agata WROBEL,Poland,POL,2004
+athens-2004,105kg heavyweight men,Men,GOLD,Dmitry BERESTOV,Russian Federation,RUS,2004
+athens-2004,105kg heavyweight men,Men,SILVER,Igor RAZORONOV,Ukraine,UKR,2004
+athens-2004,105kg heavyweight men,Men,BRONZE,Gleb PISAREVSKIY,Russian Federation,RUS,2004
+athens-2004,69kg men,Men,GOLD,Guozheng ZHANG,People's Republic of China,CHN,2004
+athens-2004,69kg men,Men,SILVER,Bae-Yeong Lee,Republic of Korea,KOR,2004
+athens-2004,69kg men,Men,BRONZE,Nikolay PECHALOV,Croatia,CRO,2004
+athens-2004,56kg bantamweight men,Men,GOLD,Halil MUTLU,Turkey,TUR,2004
+athens-2004,56kg bantamweight men,Men,SILVER,Meijin WU,People's Republic of China,CHN,2004
+athens-2004,56kg bantamweight men,Men,BRONZE,Sedat ARTUC,Turkey,TUR,2004
+sydney-2000,62kg featherweight men,Men,GOLD,Nikolay PECHALOV,Croatia,CRO,2000
+sydney-2000,62kg featherweight men,Men,SILVER,Leonidas SAMPANIS,Greece,GRE,2000
+sydney-2000,62kg featherweight men,Men,BRONZE,Gennady OLESHCHUK,Belarus,BLR,2000
+sydney-2000,94kg men,Men,GOLD,Akakios KAKIASVILIS,Greece,GRE,2000
+sydney-2000,94kg men,Men,SILVER,Szymon KOLECKI,Poland,POL,2000
+sydney-2000,94kg men,Men,BRONZE,Aleksey PETROV,Russian Federation,RUS,2000
+sydney-2000,+75kg women,Women,GOLD,Meiyuan DING,People's Republic of China,CHN,2000
+sydney-2000,+75kg women,Women,SILVER,Agata WROBEL,Poland,POL,2000
+sydney-2000,+75kg women,Women,BRONZE,Cheryl HAWORTH,United States of America,USA,2000
+sydney-2000,69kg women,Women,GOLD,Weining LIN,People's Republic of China,CHN,2000
+sydney-2000,69kg women,Women,SILVER,Erzsebet PERESZTEGINE MARKUS,Hungary,HUN,2000
+sydney-2000,69kg women,Women,BRONZE,Karnam MALLESWARI,India,IND,2000
+sydney-2000,58kg women,Women,GOLD,Soraya JIMENEZ MENDIVIL,Mexico,MEX,2000
+sydney-2000,58kg women,Women,SILVER,Song Hui RI,Democratic People's Republic of Korea,PRK,2000
+sydney-2000,58kg women,Women,BRONZE,Khassaraporn SUTA,Thailand,THA,2000
+sydney-2000,48kg women,Women,GOLD,Tara NOTT,United States of America,USA,2000
+sydney-2000,48kg women,Women,SILVER,Raema Lisa RUMBEWAS,Indonesia,INA,2000
+sydney-2000,48kg women,Women,BRONZE,Sri INDRIYANI,Indonesia,INA,2000
+sydney-2000,77kg men,Men,GOLD,Xugang ZHAN,People's Republic of China,CHN,2000
+sydney-2000,77kg men,Men,SILVER,Viktor MITROU,Greece,GRE,2000
+sydney-2000,77kg men,Men,BRONZE,Arsen MELIKYAN,Armenia,ARM,2000
+sydney-2000,75kg women,Women,GOLD,Maria Isabel URRUTIA,Colombia,COL,2000
+sydney-2000,75kg women,Women,SILVER,Ruth OGBEIFO,Nigeria,NGR,2000
+sydney-2000,75kg women,Women,BRONZE,Yi-Hang KUO,Chinese Taipei,TPE,2000
+sydney-2000,105kg heavyweight men,Men,GOLD,Hossein TAVAKOLI,Islamic Republic of Iran,IRI,2000
+sydney-2000,105kg heavyweight men,Men,SILVER,Alan TSAGAEV,Bulgaria,BUL,2000
+sydney-2000,105kg heavyweight men,Men,BRONZE,Asaad Said Saif ASAAD,Qatar,QAT,2000
+sydney-2000,105kg superheavyweight men,Men,GOLD,Hossein REZA ZADEH,Islamic Republic of Iran,IRI,2000
+sydney-2000,105kg superheavyweight men,Men,SILVER,Ronny WELLER,Germany,GER,2000
+sydney-2000,105kg superheavyweight men,Men,BRONZE,Andrey CHEMERKIN,Russian Federation,RUS,2000
+sydney-2000,63kg women,Women,GOLD,Xiaomin CHEN,People's Republic of China,CHN,2000
+sydney-2000,63kg women,Women,SILVER,Valentina POPOVA,Russian Federation,RUS,2000
+sydney-2000,63kg women,Women,BRONZE,Ioanna CHATZIIOANNOU,Greece,GRE,2000
+sydney-2000,85kg men,Men,GOLD,Pyrros DIMAS,Greece,GRE,2000
+sydney-2000,85kg men,Men,SILVER,Marc HUSTER,Germany,GER,2000
+sydney-2000,85kg men,Men,BRONZE,George ASANIDZE,Georgia,GEO,2000
+sydney-2000,56kg men,Men,GOLD,Halil MUTLU,Turkey,TUR,2000
+sydney-2000,56kg men,Men,SILVER,Wenxiong WU,People's Republic of China,CHN,2000
+sydney-2000,56kg men,Men,BRONZE,Xiangxiang ZHANG,People's Republic of China,CHN,2000
+sydney-2000,69kg men,Men,GOLD,Galabin BOEVSKI,Bulgaria,BUL,2000
+sydney-2000,69kg men,Men,SILVER,Georgi Markov,Bulgaria,BUL,2000
+sydney-2000,69kg men,Men,BRONZE,Sergei LAVRENOV,Belarus,BLR,2000
+sydney-2000,53kg women,Women,GOLD,Xia YANG,People's Republic of China,CHN,2000
+sydney-2000,53kg women,Women,SILVER,Feng-Ying LI,Chinese Taipei,TPE,2000
+sydney-2000,53kg women,Women,BRONZE,Winarni Binti SLAMET,Indonesia,INA,2000
+atlanta-1996,99  108kg heavyweight men,Men,GOLD,Timour TAIMAZOV,Ukraine,UKR,1996
+atlanta-1996,99  108kg heavyweight men,Men,SILVER,Serguei SYRTSOV,Russian Federation,RUS,1996
+atlanta-1996,99  108kg heavyweight men,Men,BRONZE,Nicu VLAD,Romania,ROU,1996
+atlanta-1996,91 - 99kg (first-heavyweight) men,Men,GOLD,Akakios KAKIASVILIS,Greece,GRE,1996
+atlanta-1996,91 - 99kg (first-heavyweight) men,Men,SILVER,Anatoli KHRAPATY,Kazakhstan,KAZ,1996
+atlanta-1996,91 - 99kg (first-heavyweight) men,Men,BRONZE,Denys Hotfrid,Ukraine,UKR,1996
+atlanta-1996,64  70kg lightweight men,Men,GOLD,Xugang ZHAN,People's Republic of China,CHN,1996
+atlanta-1996,64  70kg lightweight men,Men,SILVER,Myong Nam KIM,Democratic People's Republic of Korea,PRK,1996
+atlanta-1996,64  70kg lightweight men,Men,BRONZE,Attila FERI,Hungary,HUN,1996
+atlanta-1996,70  76kg middleweight men,Men,GOLD,Pablo LARA,Cuba,CUB,1996
+atlanta-1996,70  76kg middleweight men,Men,SILVER,Yoto Vassilev YOTOV,Bulgaria,BUL,1996
+atlanta-1996,70  76kg middleweight men,Men,BRONZE,Chol-Ho Chon,Democratic People's Republic of Korea,PRK,1996
+atlanta-1996,54kg flyweight men,Men,GOLD,Halil MUTLU,Turkey,TUR,1996
+atlanta-1996,54kg flyweight men,Men,SILVER,Xiangsen ZHANG,People's Republic of China,CHN,1996
+atlanta-1996,54kg flyweight men,Men,BRONZE,Sevdalin MINCHEV,Bulgaria,BUL,1996
+atlanta-1996,83 - 91kg middle-heavyweight men,Men,GOLD,Aleksey PETROV,Russian Federation,RUS,1996
+atlanta-1996,83 - 91kg middle-heavyweight men,Men,SILVER,Leonidas KOKAS,Greece,GRE,1996
+atlanta-1996,83 - 91kg middle-heavyweight men,Men,BRONZE,Oliver CARUSO,Germany,GER,1996
+atlanta-1996,59  64kg featherweight men,Men,GOLD,Naim Süleymanoğlu,Turkey,TUR,1996
+atlanta-1996,59  64kg featherweight men,Men,SILVER,Valerios LEONIDIS,Greece,GRE,1996
+atlanta-1996,59  64kg featherweight men,Men,BRONZE,Jiangang XIAO,People's Republic of China,CHN,1996
+atlanta-1996,108kg super heavyweight men,Men,GOLD,Andrey CHEMERKIN,Russian Federation,RUS,1996
+atlanta-1996,108kg super heavyweight men,Men,SILVER,Ronny WELLER,Germany,GER,1996
+atlanta-1996,108kg super heavyweight men,Men,BRONZE,Stefan Botev Khristov,Australia,AUS,1996
+atlanta-1996,54  59kg bantamweight men,Men,GOLD,Ningsheng TANG,People's Republic of China,CHN,1996
+atlanta-1996,54  59kg bantamweight men,Men,SILVER,Leonidas SAMPANIS,Greece,GRE,1996
+atlanta-1996,54  59kg bantamweight men,Men,BRONZE,Nikolay PECHALOV,Bulgaria,BUL,1996
+atlanta-1996,76  83kg lightheavyweight men,Men,GOLD,Pyrros DIMAS,Greece,GRE,1996
+atlanta-1996,76  83kg lightheavyweight men,Men,SILVER,Marc HUSTER,Germany,GER,1996
+atlanta-1996,76  83kg lightheavyweight men,Men,BRONZE,Andrzej COFALIK,Poland,POL,1996
+barcelona-1992,60-67.5kg lightweight men,Men,GOLD,Israel MILITOSIAN,Unified Team,EUN,1992
+barcelona-1992,60-67.5kg lightweight men,Men,SILVER,Yoto Vassilev YOTOV,Bulgaria,BUL,1992
+barcelona-1992,60-67.5kg lightweight men,Men,BRONZE,Andreas BEHM,Germany,GER,1992
+barcelona-1992,82.5 - 90kg (middle-heavyweight) men,Men,GOLD,Akakios KAKIASVILIS,Unified Team,EUN,1992
+barcelona-1992,82.5 - 90kg (middle-heavyweight) men,Men,SILVER,Serguei SYRTSOV,Unified Team,EUN,1992
+barcelona-1992,82.5 - 90kg (middle-heavyweight) men,Men,BRONZE,Sergiusz WOLCZANIECKI,Poland,POL,1992
+barcelona-1992,90  100kg firstheavyweight men,Men,GOLD,Viktor Tregubov,Unified Team,EUN,1992
+barcelona-1992,90  100kg firstheavyweight men,Men,SILVER,Timour TAIMAZOV,Unified Team,EUN,1992
+barcelona-1992,90  100kg firstheavyweight men,Men,BRONZE,Waldemar MALAK,Poland,POL,1992
+barcelona-1992,52kg flyweight men,Men,GOLD,Ivan Ivanov IVANOV,Bulgaria,BUL,1992
+barcelona-1992,52kg flyweight men,Men,SILVER,Qisheng LIN,People's Republic of China,CHN,1992
+barcelona-1992,52kg flyweight men,Men,BRONZE,Traian Ioachim CIHAREAN,Romania,ROU,1992
+barcelona-1992,75  825kg lightheavyweight men,Men,GOLD,Pyrros DIMAS,Greece,GRE,1992
+barcelona-1992,75  825kg lightheavyweight men,Men,SILVER,Krzysztof SIEMION,Poland,POL,1992
+barcelona-1992,56 - 60kg (featherweight) men,Men,GOLD,Naim Süleymanoğlu,Turkey,TUR,1992
+barcelona-1992,56 - 60kg (featherweight) men,Men,SILVER,Nikolay PECHALOV,Bulgaria,BUL,1992
+barcelona-1992,56 - 60kg (featherweight) men,Men,BRONZE,Ying-Qiang HE,People's Republic of China,CHN,1992
+barcelona-1992,110kg super heavyweight men,Men,GOLD,Alexandre KURLOVICH,Unified Team,EUN,1992
+barcelona-1992,110kg super heavyweight men,Men,SILVER,Leonid TARANENKO,Unified Team,EUN,1992
+barcelona-1992,110kg super heavyweight men,Men,BRONZE,Manfred NERLINGER,Germany,GER,1992
+barcelona-1992,67.5-75kg middleweight men,Men,GOLD,Tudor Casapu,Unified Team,EUN,1992
+barcelona-1992,67.5-75kg middleweight men,Men,SILVER,Pablo LARA,Cuba,CUB,1992
+barcelona-1992,67.5-75kg middleweight men,Men,BRONZE,Myong Nam KIM,Democratic People's Republic of Korea,PRK,1992
+barcelona-1992,100  110kg heavyweight men,Men,GOLD,Ronny WELLER,Germany,GER,1992
+barcelona-1992,100  110kg heavyweight men,Men,SILVER,Artur Akoyev,Unified Team,EUN,1992
+barcelona-1992,100  110kg heavyweight men,Men,BRONZE,Stefan Botev Khristov,Bulgaria,BUL,1992
+barcelona-1992,56kg bantamweight men,Men,GOLD,Byeong-Gwan Jeon,Republic of Korea,KOR,1992
+barcelona-1992,56kg bantamweight men,Men,SILVER,Shoubin LIU,People's Republic of China,CHN,1992
+barcelona-1992,56kg bantamweight men,Men,BRONZE,Jianming LUO,People's Republic of China,CHN,1992
+seoul-1988,- 52kg (flyweight) men,Men,GOLD,Sevdalin MARINOV,Bulgaria,BUL,1988
+seoul-1988,- 52kg (flyweight) men,Men,SILVER,Byeong-Gwan Jeon,Republic of Korea,KOR,1988
+seoul-1988,- 52kg (flyweight) men,Men,BRONZE,Zhuo-Qiang HE,People's Republic of China,CHN,1988
+seoul-1988,67.5-75kg middleweight men,Men,GOLD,Borislav GIDIKOV,Bulgaria,BUL,1988
+seoul-1988,67.5-75kg middleweight men,Men,SILVER,Ingo STEINHOEFEL,German Democratic Republic (Germany),GDR,1988
+seoul-1988,67.5-75kg middleweight men,Men,BRONZE,Aleksander VARBANOV,Bulgaria,BUL,1988
+seoul-1988,56 - 60kg (featherweight) men,Men,GOLD,Naim Süleymanoğlu,Turkey,TUR,1988
+seoul-1988,56 - 60kg (featherweight) men,Men,SILVER,Stefan TOPUROV,Bulgaria,BUL,1988
+seoul-1988,56 - 60kg (featherweight) men,Men,BRONZE,Huan-Ming YE,People's Republic of China,CHN,1988
+seoul-1988,75  825kg lightheavyweight men,Men,GOLD,Israil ARSAMAKOV,Soviet Union,URS,1988
+seoul-1988,75  825kg lightheavyweight men,Men,SILVER,Istvan MESSZI,Hungary,HUN,1988
+seoul-1988,75  825kg lightheavyweight men,Men,BRONZE,Kyung-Kun LEE,Republic of Korea,KOR,1988
+seoul-1988,90  100kg firstheavyweight men,Men,GOLD,Pavel KUZNETSOV,Soviet Union,URS,1988
+seoul-1988,90  100kg firstheavyweight men,Men,SILVER,Nicu VLAD,Romania,ROU,1988
+seoul-1988,90  100kg firstheavyweight men,Men,BRONZE,Peter IMMESBERGER,Federal Republic of Germany,FRG,1988
+seoul-1988,60 - 67.5kg (lightweight) men,Men,GOLD,Joachim KUNZ,German Democratic Republic (Germany),GDR,1988
+seoul-1988,60 - 67.5kg (lightweight) men,Men,SILVER,Israel MILITOSIAN,Soviet Union,URS,1988
+seoul-1988,60 - 67.5kg (lightweight) men,Men,BRONZE,Jin-He LI,People's Republic of China,CHN,1988
+seoul-1988,100  110kg heavyweight men,Men,GOLD,Yuri ZAKHAREVICH,Soviet Union,URS,1988
+seoul-1988,100  110kg heavyweight men,Men,SILVER,Jozsef JACSO,Hungary,HUN,1988
+seoul-1988,100  110kg heavyweight men,Men,BRONZE,Ronny WELLER,German Democratic Republic (Germany),GDR,1988
+seoul-1988,82.5 - 90kg (middle-heavyweight) men,Men,GOLD,Anatoli KHRAPATY,Soviet Union,URS,1988
+seoul-1988,82.5 - 90kg (middle-heavyweight) men,Men,SILVER,Nail MUKHAMEDYAROV,Soviet Union,URS,1988
+seoul-1988,82.5 - 90kg (middle-heavyweight) men,Men,BRONZE,Slawomir ZAWADA,Poland,POL,1988
+seoul-1988,110kg super heavyweight men,Men,GOLD,Alexandre KURLOVICH,Soviet Union,URS,1988
+seoul-1988,110kg super heavyweight men,Men,SILVER,Manfred NERLINGER,Federal Republic of Germany,FRG,1988
+seoul-1988,110kg super heavyweight men,Men,BRONZE,Martin ZAWIEJA,Federal Republic of Germany,FRG,1988
+seoul-1988,56kg bantamweight men,Men,GOLD,Oksen MIRZOYAN,Soviet Union,URS,1988
+seoul-1988,56kg bantamweight men,Men,SILVER,Ying-Qiang HE,People's Republic of China,CHN,1988
+seoul-1988,56kg bantamweight men,Men,BRONZE,Shoubin LIU,People's Republic of China,CHN,1988
+los-angeles-1984,90  100kg firstheavyweight men,Men,GOLD,Rolf MILSER,Federal Republic of Germany,FRG,1984
+los-angeles-1984,90  100kg firstheavyweight men,Men,SILVER,Vasile GROAPA,Romania,ROU,1984
+los-angeles-1984,90  100kg firstheavyweight men,Men,BRONZE,Pekka NIEMI,Finland,FIN,1984
+los-angeles-1984,75  825kg lightheavyweight men,Men,GOLD,Petre BECHERU,Romania,ROU,1984
+los-angeles-1984,75  825kg lightheavyweight men,Men,SILVER,Robert KABBAS,Australia,AUS,1984
+los-angeles-1984,75  825kg lightheavyweight men,Men,BRONZE,Ryoji ISAOKA,Japan,JPN,1984
+los-angeles-1984,100  110kg heavyweight men,Men,GOLD,Norberto OBERBURGER,Italy,ITA,1984
+los-angeles-1984,100  110kg heavyweight men,Men,SILVER,Stefan TASNADI,Romania,ROU,1984
+los-angeles-1984,100  110kg heavyweight men,Men,BRONZE,Guy Albert CARLTON,United States of America,USA,1984
+los-angeles-1984,110kg super heavyweight men,Men,GOLD,Dinko LUKIN,Australia,AUS,1984
+los-angeles-1984,110kg super heavyweight men,Men,SILVER,Mario MARTINEZ,United States of America,USA,1984
+los-angeles-1984,110kg super heavyweight men,Men,BRONZE,Manfred NERLINGER,Federal Republic of Germany,FRG,1984
+los-angeles-1984,56kg bantamweight men,Men,GOLD,Shu-De WU,People's Republic of China,CHN,1984
+los-angeles-1984,56kg bantamweight men,Men,SILVER,Run-Ming LAI,People's Republic of China,CHN,1984
+los-angeles-1984,56kg bantamweight men,Men,BRONZE,Masahiro KOTAKA,Japan,JPN,1984
+los-angeles-1984,60-67.5kg lightweight men,Men,GOLD,Jing-Yuan YAO,People's Republic of China,CHN,1984
+los-angeles-1984,60-67.5kg lightweight men,Men,SILVER,Andrei SOCACI,Romania,ROU,1984
+los-angeles-1984,60-67.5kg lightweight men,Men,BRONZE,Jouni Johannes GRONMAN,Finland,FIN,1984
+los-angeles-1984,- 52kg (flyweight) men,Men,GOLD,Guo-Qiang ZENG,People's Republic of China,CHN,1984
+los-angeles-1984,- 52kg (flyweight) men,Men,SILVER,Pei-Shun ZHOU,People's Republic of China,CHN,1984
+los-angeles-1984,- 52kg (flyweight) men,Men,BRONZE,Kazushito MANABE,Japan,JPN,1984
+los-angeles-1984,825  90kg middleheavyweight men,Men,GOLD,Nicu VLAD,Romania,ROU,1984
+los-angeles-1984,825  90kg middleheavyweight men,Men,SILVER,Petre Dumitru,Romania,ROU,1984
+los-angeles-1984,825  90kg middleheavyweight men,Men,BRONZE,David MERCER,Great Britain,GBR,1984
+los-angeles-1984,67.5-75kg middleweight men,Men,GOLD,Karl-Heinz RADSCHINSKY,Federal Republic of Germany,FRG,1984
+los-angeles-1984,67.5-75kg middleweight men,Men,SILVER,Jacques DEMERS,Canada,CAN,1984
+los-angeles-1984,67.5-75kg middleweight men,Men,BRONZE,Dragomir CIOROSLAN,Romania,ROU,1984
+los-angeles-1984,56 - 60kg (featherweight) men,Men,GOLD,Wei-Qiang CHEN,People's Republic of China,CHN,1984
+los-angeles-1984,56 - 60kg (featherweight) men,Men,SILVER,Gelu RADU,Romania,ROU,1984
+los-angeles-1984,56 - 60kg (featherweight) men,Men,BRONZE,Wen-Yee TSAI,Chinese Taipei,TPE,1984
+moscow-1980,110kg super heavyweight men,Men,GOLD,Sultan RAKHMANOV,Soviet Union,URS,1980
+moscow-1980,110kg super heavyweight men,Men,SILVER,Jürgen HEUSER,German Democratic Republic (Germany),GDR,1980
+moscow-1980,110kg super heavyweight men,Men,BRONZE,Tadeusz RUTKOWSKI,Poland,POL,1980
+moscow-1980,90 - 100kg (first-heavyweight) men,Men,GOLD,Ota ZAREMBA,Czechoslovakia,TCH,1980
+moscow-1980,90 - 100kg (first-heavyweight) men,Men,SILVER,Igor NIKITIN,Soviet Union,URS,1980
+moscow-1980,90 - 100kg (first-heavyweight) men,Men,BRONZE,Alberto BLANCO FERNANDEZ,Cuba,CUB,1980
+moscow-1980,"67.5 - 75kg, (middleweight) men",Men,GOLD,Asen ZLATEV,Bulgaria,BUL,1980
+moscow-1980,"67.5 - 75kg, (middleweight) men",Men,SILVER,Oleksandr Perviy,Soviet Union,URS,1980
+moscow-1980,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Nedelcho KOLEV,Bulgaria,BUL,1980
+moscow-1980,56 - 60kg (featherweight) men,Men,GOLD,Viktor MAZIN,Soviet Union,URS,1980
+moscow-1980,56 - 60kg (featherweight) men,Men,SILVER,Stefan DIMITROV,Bulgaria,BUL,1980
+moscow-1980,56 - 60kg (featherweight) men,Men,BRONZE,Marek SEWERYN,Poland,POL,1980
+moscow-1980,52kg flyweight men,Men,GOLD,Kanybek OSMONALIEV,Soviet Union,URS,1980
+moscow-1980,52kg flyweight men,Men,SILVER,Bong Chol HO,Democratic People's Republic of Korea,PRK,1980
+moscow-1980,52kg flyweight men,Men,BRONZE,Gyong Si HAN,Democratic People's Republic of Korea,PRK,1980
+moscow-1980,825  90kg middleheavyweight men,Men,GOLD,Peter BACZAKO,Hungary,HUN,1980
+moscow-1980,825  90kg middleheavyweight men,Men,SILVER,Rumen ALEKSANDROV,Bulgaria,BUL,1980
+moscow-1980,825  90kg middleheavyweight men,Men,BRONZE,Frank MANTEK,German Democratic Republic (Germany),GDR,1980
+moscow-1980,75  825kg lightheavyweight men,Men,GOLD,Yuri Vardanyan,Soviet Union,URS,1980
+moscow-1980,75  825kg lightheavyweight men,Men,SILVER,Blagoi BLAGOEV,Bulgaria,BUL,1980
+moscow-1980,75  825kg lightheavyweight men,Men,BRONZE,Dusan POLIACIK,Czechoslovakia,TCH,1980
+moscow-1980,100  110kg heavyweight men,Men,GOLD,Leonid TARANENKO,Soviet Union,URS,1980
+moscow-1980,100  110kg heavyweight men,Men,SILVER,Valentin CHRISTOV,Bulgaria,BUL,1980
+moscow-1980,100  110kg heavyweight men,Men,BRONZE,György SZALAI,Hungary,HUN,1980
+moscow-1980,56kg bantamweight men,Men,GOLD,Daniel NUNEZ AGUIAR,Cuba,CUB,1980
+moscow-1980,56kg bantamweight men,Men,SILVER,Yurik SARKISIAN,Soviet Union,URS,1980
+moscow-1980,56kg bantamweight men,Men,BRONZE,Tadeusz DEMBONCZYK,Poland,POL,1980
+moscow-1980,60-67.5kg lightweight men,Men,GOLD,Yanko RUSEV,Bulgaria,BUL,1980
+moscow-1980,60-67.5kg lightweight men,Men,SILVER,Joachim KUNZ,German Democratic Republic (Germany),GDR,1980
+moscow-1980,60-67.5kg lightweight men,Men,BRONZE,Mincho PASHEV,Bulgaria,BUL,1980
+montreal-1976,56kg bantamweight men,Men,GOLD,Norayr Nurikyan,Bulgaria,BUL,1976
+montreal-1976,56kg bantamweight men,Men,SILVER,Grzegorz CZIURA,Poland,POL,1976
+montreal-1976,56kg bantamweight men,Men,BRONZE,Kenkichi ANDO,Japan,JPN,1976
+montreal-1976,75  825kg lightheavyweight men,Men,GOLD,Valeri SHARY,Soviet Union,URS,1976
+montreal-1976,75  825kg lightheavyweight men,Men,SILVER,Trendafil STOITCHEV,Bulgaria,BUL,1976
+montreal-1976,75  825kg lightheavyweight men,Men,BRONZE,Peter BACZAKO,Hungary,HUN,1976
+montreal-1976,91  110kg heavyweight men,Men,GOLD,Yury Zaytsev,Soviet Union,URS,1976
+montreal-1976,91  110kg heavyweight men,Men,SILVER,Krastyu Semerdzhiev,Bulgaria,BUL,1976
+montreal-1976,91  110kg heavyweight men,Men,BRONZE,Tadeusz RUTKOWSKI,Poland,POL,1976
+montreal-1976,60-67.5kg lightweight men,Men,GOLD,Pyotr KOROL,Soviet Union,URS,1976
+montreal-1976,60-67.5kg lightweight men,Men,SILVER,Daniel SENET,France,FRA,1976
+montreal-1976,60-67.5kg lightweight men,Men,BRONZE,Kazimierz CZARNECKI,Poland,POL,1976
+montreal-1976,110kg super heavyweight men,Men,GOLD,Vasily ALEKSEYEV,Soviet Union,URS,1976
+montreal-1976,110kg super heavyweight men,Men,SILVER,Gerd BONK,German Democratic Republic (Germany),GDR,1976
+montreal-1976,110kg super heavyweight men,Men,BRONZE,Helmut LOSCH,German Democratic Republic (Germany),GDR,1976
+montreal-1976,67.5-75kg middleweight men,Men,GOLD,Yordan MITKOV,Bulgaria,BUL,1976
+montreal-1976,67.5-75kg middleweight men,Men,SILVER,Vartan MILITOSYAN,Soviet Union,URS,1976
+montreal-1976,67.5-75kg middleweight men,Men,BRONZE,Peter WENZEL,German Democratic Republic (Germany),GDR,1976
+montreal-1976,825  90kg middleheavyweight men,Men,GOLD,David RIGERT,Soviet Union,URS,1976
+montreal-1976,825  90kg middleheavyweight men,Men,SILVER,"Lee Roy, Jr. JAMES",United States of America,USA,1976
+montreal-1976,825  90kg middleheavyweight men,Men,BRONZE,Atanas SHOPOV,Bulgaria,BUL,1976
+montreal-1976,56 - 60kg (featherweight) men,Men,GOLD,Nikolai KOLESNIKOV,Soviet Union,URS,1976
+montreal-1976,56 - 60kg (featherweight) men,Men,SILVER,Georghi TODOROV,Bulgaria,BUL,1976
+montreal-1976,56 - 60kg (featherweight) men,Men,BRONZE,Kazumasa HIRAI,Japan,JPN,1976
+montreal-1976,52kg flyweight men,Men,GOLD,Aleksandr VORONIN,Soviet Union,URS,1976
+montreal-1976,52kg flyweight men,Men,SILVER,György KÖSZEGI,Hungary,HUN,1976
+montreal-1976,52kg flyweight men,Men,BRONZE,Mohammad NASSIRI-SERESHT,Islamic Republic of Iran,IRI,1976
+munich-1972,75-82.5kg total lightheavyweight men,Men,GOLD,Leif Goran JENSSEN,Norway,NOR,1972
+munich-1972,75-82.5kg total lightheavyweight men,Men,SILVER,Norbert OZIMEK,Poland,POL,1972
+munich-1972,75-82.5kg total lightheavyweight men,Men,BRONZE,György HORVATH,Hungary,HUN,1972
+munich-1972,56 - 60kg (featherweight) men,Men,GOLD,Norayr Nurikyan,Bulgaria,BUL,1972
+munich-1972,56 - 60kg (featherweight) men,Men,SILVER,Dito SHANIDZE,Soviet Union,URS,1972
+munich-1972,56 - 60kg (featherweight) men,Men,BRONZE,Janos BENEDEK,Hungary,HUN,1972
+munich-1972,52kg flyweight men,Men,GOLD,Zygmunt SMALCERZ,Poland,POL,1972
+munich-1972,52kg flyweight men,Men,SILVER,Lajos SZÜCS,Hungary,HUN,1972
+munich-1972,52kg flyweight men,Men,BRONZE,Sandor HOLCZREITER,Hungary,HUN,1972
+munich-1972,60-67.5kg lightweight men,Men,GOLD,Mukharbi KIRZHINOV,Soviet Union,URS,1972
+munich-1972,60-67.5kg lightweight men,Men,SILVER,Mladen KUTCHEV,Bulgaria,BUL,1972
+munich-1972,60-67.5kg lightweight men,Men,BRONZE,Zbigniew KACZMAREK,Poland,POL,1972
+munich-1972,52  56kg bantamweight men,Men,GOLD,Imre FÖLDI,Hungary,HUN,1972
+munich-1972,52  56kg bantamweight men,Men,SILVER,Mohammad NASSIRI-SERESHT,Islamic Republic of Iran,IRI,1972
+munich-1972,52  56kg bantamweight men,Men,BRONZE,Gennadi CHETIN,Soviet Union,URS,1972
+munich-1972,110kg super heavyweight men,Men,GOLD,Vasily ALEKSEYEV,Soviet Union,URS,1972
+munich-1972,110kg super heavyweight men,Men,SILVER,Rudolf MANG,Federal Republic of Germany,FRG,1972
+munich-1972,110kg super heavyweight men,Men,BRONZE,Gerd BONK,German Democratic Republic (Germany),GDR,1972
+munich-1972,825  90kg total middleheavyweight men,Men,GOLD,Andon NIKOLOV,Bulgaria,BUL,1972
+munich-1972,825  90kg total middleheavyweight men,Men,SILVER,Atanas SHOPOV,Bulgaria,BUL,1972
+munich-1972,825  90kg total middleheavyweight men,Men,BRONZE,Hans BETTEMBOURG,Sweden,SWE,1972
+munich-1972,91  110kg heavyweight men,Men,GOLD,Yan TALTS,Soviet Union,URS,1972
+munich-1972,91  110kg heavyweight men,Men,SILVER,Aleksandar KRAITCHEV,Bulgaria,BUL,1972
+munich-1972,91  110kg heavyweight men,Men,BRONZE,Stefan GRÜTZNER,German Democratic Republic (Germany),GDR,1972
+munich-1972,"67.5 - 75kg, (middleweight) men",Men,GOLD,Yordan BIKOV,Bulgaria,BUL,1972
+munich-1972,"67.5 - 75kg, (middleweight) men",Men,SILVER,Kheir Mohamed TARABULSI,Lebanon,LBN,1972
+munich-1972,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Anselmo SILVINO,Italy,ITA,1972
+mexico-city-1968,90kg heavyweight men,Men,GOLD,Leonid ZHABOTINSKY,Soviet Union,URS,1968
+mexico-city-1968,90kg heavyweight men,Men,SILVER,Serge REDING,Belgium,BEL,1968
+mexico-city-1968,90kg heavyweight men,Men,BRONZE,Joseph Douglas DUBE,United States of America,USA,1968
+mexico-city-1968,67.5-75kg middleweight men,Men,GOLD,Viktor KURENTSOV,Soviet Union,URS,1968
+mexico-city-1968,67.5-75kg middleweight men,Men,SILVER,Masashi OHUCHI,Japan,JPN,1968
+mexico-city-1968,67.5-75kg middleweight men,Men,BRONZE,Karoly BAKOS,Hungary,HUN,1968
+mexico-city-1968,75-82.5kg total lightheavyweight men,Men,GOLD,Boris SELITSKY,Soviet Union,URS,1968
+mexico-city-1968,75-82.5kg total lightheavyweight men,Men,SILVER,Volodymyr Bieliaiev,Soviet Union,URS,1968
+mexico-city-1968,75-82.5kg total lightheavyweight men,Men,BRONZE,Norbert OZIMEK,Poland,POL,1968
+mexico-city-1968,60 - 67.5kg (lightweight) men,Men,GOLD,Waldemar BASZANOWSKI,Poland,POL,1968
+mexico-city-1968,60 - 67.5kg (lightweight) men,Men,SILVER,Parviz JALAYER,Islamic Republic of Iran,IRI,1968
+mexico-city-1968,60 - 67.5kg (lightweight) men,Men,BRONZE,Marian ZIELINSKI,Poland,POL,1968
+mexico-city-1968,56 - 60kg (featherweight) men,Men,GOLD,Yoshinobu MIYAKE,Japan,JPN,1968
+mexico-city-1968,56 - 60kg (featherweight) men,Men,SILVER,Dito SHANIDZE,Soviet Union,URS,1968
+mexico-city-1968,56 - 60kg (featherweight) men,Men,BRONZE,Yoshiyuki MIYAKE,Japan,JPN,1968
+mexico-city-1968,-56kg (bantamweight) men,Men,GOLD,Mohammad NASSIRI-SERESHT,Islamic Republic of Iran,IRI,1968
+mexico-city-1968,-56kg (bantamweight) men,Men,SILVER,Imre FÖLDI,Hungary,HUN,1968
+mexico-city-1968,-56kg (bantamweight) men,Men,BRONZE,Henryk TREBICKI,Poland,POL,1968
+mexico-city-1968,825  90kg total middleheavyweight men,Men,GOLD,Kaarlo Olavi KANGASNIEMI,Finland,FIN,1968
+mexico-city-1968,825  90kg total middleheavyweight men,Men,SILVER,Yan TALTS,Soviet Union,URS,1968
+mexico-city-1968,825  90kg total middleheavyweight men,Men,BRONZE,Marek GOLAB,Poland,POL,1968
+tokyo-1964,67.5-75kg middleweight men,Men,GOLD,Hans ZDRAZILA,Czechoslovakia,TCH,1964
+tokyo-1964,67.5-75kg middleweight men,Men,SILVER,Viktor KURENTSOV,Soviet Union,URS,1964
+tokyo-1964,67.5-75kg middleweight men,Men,BRONZE,Masashi OHUCHI,Japan,JPN,1964
+tokyo-1964,60-67.5kg lightweight men,Men,GOLD,Waldemar BASZANOWSKI,Poland,POL,1964
+tokyo-1964,60-67.5kg lightweight men,Men,SILVER,Vladimir KAPLUNOV,Soviet Union,URS,1964
+tokyo-1964,60-67.5kg lightweight men,Men,BRONZE,Marian ZIELINSKI,Poland,POL,1964
+tokyo-1964,56kg bantamweight men,Men,GOLD,Aleksey Vakhonin,Soviet Union,URS,1964
+tokyo-1964,56kg bantamweight men,Men,SILVER,Imre FÖLDI,Hungary,HUN,1964
+tokyo-1964,56kg bantamweight men,Men,BRONZE,Shiro ISHINOSEKI,Japan,JPN,1964
+tokyo-1964,90kg heavyweight men,Men,GOLD,Leonid ZHABOTINSKY,Soviet Union,URS,1964
+tokyo-1964,90kg heavyweight men,Men,SILVER,Yuri VLASOV,Soviet Union,URS,1964
+tokyo-1964,90kg heavyweight men,Men,BRONZE,Norbert SCHEMANSKY,United States of America,USA,1964
+tokyo-1964,56 - 60kg (featherweight) men,Men,GOLD,Yoshinobu MIYAKE,Japan,JPN,1964
+tokyo-1964,56 - 60kg (featherweight) men,Men,SILVER,Isaac BERGER,United States of America,USA,1964
+tokyo-1964,56 - 60kg (featherweight) men,Men,BRONZE,Mieczyslaw NOWAK,Poland,POL,1964
+tokyo-1964,825  90kg total middleheavyweight men,Men,GOLD,Vladimir GOLOVANOV,Soviet Union,URS,1964
+tokyo-1964,825  90kg total middleheavyweight men,Men,SILVER,Louis George MARTIN,Great Britain,GBR,1964
+tokyo-1964,825  90kg total middleheavyweight men,Men,BRONZE,Ireneusz PALINSKI,Poland,POL,1964
+tokyo-1964,75-82.5kg total lightheavyweight men,Men,GOLD,Rudolf PLYUKFELDER,Soviet Union,URS,1964
+tokyo-1964,75-82.5kg total lightheavyweight men,Men,SILVER,Géza Tóth,Hungary,HUN,1964
+tokyo-1964,75-82.5kg total lightheavyweight men,Men,BRONZE,Gyözö VERES,Hungary,HUN,1964
+rome-1960,56kg bantamweight men,Men,GOLD,Charles Thomas Jr. VINCI,United States of America,USA,1960
+rome-1960,56kg bantamweight men,Men,SILVER,Yoshinobu MIYAKE,Japan,JPN,1960
+rome-1960,56kg bantamweight men,Men,BRONZE,Ismail Elm Khah,Islamic Republic of Iran,IRI,1960
+rome-1960,90kg heavyweight men,Men,GOLD,Yuri VLASOV,Soviet Union,URS,1960
+rome-1960,90kg heavyweight men,Men,SILVER,James Edward BRADFORD,United States of America,USA,1960
+rome-1960,90kg heavyweight men,Men,BRONZE,Norbert SCHEMANSKY,United States of America,USA,1960
+rome-1960,825  90kg total middleheavyweight men,Men,GOLD,Arkady Vorobyov,Soviet Union,URS,1960
+rome-1960,825  90kg total middleheavyweight men,Men,SILVER,Trofim LOMAKIN,Soviet Union,URS,1960
+rome-1960,825  90kg total middleheavyweight men,Men,BRONZE,Louis George MARTIN,Great Britain,GBR,1960
+rome-1960,60 - 67.5kg (lightweight) men,Men,GOLD,Viktor BUSHUEV,Soviet Union,URS,1960
+rome-1960,60 - 67.5kg (lightweight) men,Men,SILVER,Tiger Tan,Singapore,SGP,1960
+rome-1960,60 - 67.5kg (lightweight) men,Men,BRONZE,Abdul WAHID AZIZ,Iraq,IRQ,1960
+rome-1960,75-82.5kg total lightheavyweight men,Men,GOLD,Ireneusz PALINSKI,Poland,POL,1960
+rome-1960,75-82.5kg total lightheavyweight men,Men,SILVER,James D. GEORGE,United States of America,USA,1960
+rome-1960,75-82.5kg total lightheavyweight men,Men,BRONZE,Jan BOCHENEK,Poland,POL,1960
+rome-1960,"67.5 - 75kg, (middleweight) men",Men,GOLD,Aleksandr KURYNOV,Soviet Union,URS,1960
+rome-1960,"67.5 - 75kg, (middleweight) men",Men,SILVER,Thomas Tamio KONO,United States of America,USA,1960
+rome-1960,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Gyözö VERES,Hungary,HUN,1960
+rome-1960,56 - 60kg (featherweight) men,Men,GOLD,Yevgeny Minayev,Soviet Union,URS,1960
+rome-1960,56 - 60kg (featherweight) men,Men,SILVER,Isaac BERGER,United States of America,USA,1960
+rome-1960,56 - 60kg (featherweight) men,Men,BRONZE,Sebastiano MANNIRONI,Italy,ITA,1960
+melbourne-1956,90kg heavyweight men,Men,GOLD,Paul Edward ANDERSON,United States of America,USA,1956
+melbourne-1956,90kg heavyweight men,Men,SILVER,Humberto SELVETTI,Argentina,ARG,1956
+melbourne-1956,90kg heavyweight men,Men,BRONZE,Alberto PIGAIANI,Italy,ITA,1956
+melbourne-1956,56 - 60kg (featherweight) men,Men,GOLD,Isaac BERGER,United States of America,USA,1956
+melbourne-1956,56 - 60kg (featherweight) men,Men,SILVER,Yevgeny Minayev,Soviet Union,URS,1956
+melbourne-1956,56 - 60kg (featherweight) men,Men,BRONZE,Marian ZIELINSKI,Poland,POL,1956
+melbourne-1956,75-82.5kg total lightheavyweight men,Men,GOLD,Thomas Tamio KONO,United States of America,USA,1956
+melbourne-1956,75-82.5kg total lightheavyweight men,Men,SILVER,Vasīlijs Stepanovs,Soviet Union,URS,1956
+melbourne-1956,75-82.5kg total lightheavyweight men,Men,BRONZE,James D. GEORGE,United States of America,USA,1956
+melbourne-1956,60 - 67.5kg (lightweight) men,Men,GOLD,Igor RYBAK,Soviet Union,URS,1956
+melbourne-1956,60 - 67.5kg (lightweight) men,Men,SILVER,Ravil KHABUTDINOV,Soviet Union,URS,1956
+melbourne-1956,60 - 67.5kg (lightweight) men,Men,BRONZE,Chang-Hee KIM,Republic of Korea,KOR,1956
+melbourne-1956,56kg bantamweight men,Men,GOLD,Charles Thomas Jr. VINCI,United States of America,USA,1956
+melbourne-1956,56kg bantamweight men,Men,SILVER,Vladimir STOGOV,Soviet Union,URS,1956
+melbourne-1956,56kg bantamweight men,Men,BRONZE,Mahmoud NAMDJOU,Islamic Republic of Iran,IRI,1956
+melbourne-1956,825  90kg total middleheavyweight men,Men,GOLD,Arkady Vorobyov,Soviet Union,URS,1956
+melbourne-1956,825  90kg total middleheavyweight men,Men,SILVER,David Joseph SHEPPARD,United States of America,USA,1956
+melbourne-1956,825  90kg total middleheavyweight men,Men,BRONZE,Jean DEBUF,France,FRA,1956
+melbourne-1956,"67.5 - 75kg, (middleweight) men",Men,GOLD,Fedor BOGDANOVSKY,Soviet Union,URS,1956
+melbourne-1956,"67.5 - 75kg, (middleweight) men",Men,SILVER,Peter T. GEORGE,United States of America,USA,1956
+melbourne-1956,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Ermanno PIGNATTI,Italy,ITA,1956
+helsinki-1952,-56kg (bantamweight) men,Men,GOLD,Ivan UDODOV,Soviet Union,URS,1952
+helsinki-1952,-56kg (bantamweight) men,Men,SILVER,Mahmoud NAMDJOU,Islamic Republic of Iran,IRI,1952
+helsinki-1952,-56kg (bantamweight) men,Men,BRONZE,Ali MIRZAI,Islamic Republic of Iran,IRI,1952
+helsinki-1952,825  90kg total middleheavyweight men,Men,GOLD,Norbert SCHEMANSKY,United States of America,USA,1952
+helsinki-1952,825  90kg total middleheavyweight men,Men,SILVER,Grigori NOVAK,Soviet Union,URS,1952
+helsinki-1952,825  90kg total middleheavyweight men,Men,BRONZE,Lennox KILGOUR,Trinidad and Tobago,TTO,1952
+helsinki-1952,75-82.5kg total lightheavyweight men,Men,GOLD,Trofim LOMAKIN,Soviet Union,URS,1952
+helsinki-1952,75-82.5kg total lightheavyweight men,Men,SILVER,Stanley Anthony STANCZYK,United States of America,USA,1952
+helsinki-1952,75-82.5kg total lightheavyweight men,Men,BRONZE,Arkady Vorobyov,Soviet Union,URS,1952
+helsinki-1952,"67.5 - 75kg, (middleweight) men",Men,GOLD,Peter T. GEORGE,United States of America,USA,1952
+helsinki-1952,"67.5 - 75kg, (middleweight) men",Men,SILVER,Gerald A. GRATTON,Canada,CAN,1952
+helsinki-1952,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Sung-Jip KIM,Republic of Korea,KOR,1952
+helsinki-1952,60 - 67.5kg (lightweight) men,Men,GOLD,Thomas Tamio KONO,United States of America,USA,1952
+helsinki-1952,60 - 67.5kg (lightweight) men,Men,SILVER,Yevgeni LOPATIN,Soviet Union,URS,1952
+helsinki-1952,60 - 67.5kg (lightweight) men,Men,BRONZE,Verdi BARBERIS,Australia,AUS,1952
+helsinki-1952,90kg heavyweight men,Men,GOLD,John Henry Jr. DAVIS,United States of America,USA,1952
+helsinki-1952,90kg heavyweight men,Men,SILVER,James Edward BRADFORD,United States of America,USA,1952
+helsinki-1952,90kg heavyweight men,Men,BRONZE,Humberto SELVETTI,Argentina,ARG,1952
+helsinki-1952,56 - 60kg (featherweight) men,Men,GOLD,Rapael Chimishk'iani,Soviet Union,URS,1952
+helsinki-1952,56 - 60kg (featherweight) men,Men,SILVER,Nikolai SAKSONOV,Soviet Union,URS,1952
+helsinki-1952,56 - 60kg (featherweight) men,Men,BRONZE,Rodney Adolphus WILKES,Trinidad and Tobago,TTO,1952
+london-1948,82.5kg heavyweight men,Men,GOLD,John Henry Jr. DAVIS,United States of America,USA,1948
+london-1948,82.5kg heavyweight men,Men,SILVER,Norbert SCHEMANSKY,United States of America,USA,1948
+london-1948,82.5kg heavyweight men,Men,BRONZE,Abraham CHARITE,Netherlands,NED,1948
+london-1948,67.5-75kg middleweight men,Men,GOLD,Frank Isaac SPELLMAN,United States of America,USA,1948
+london-1948,67.5-75kg middleweight men,Men,SILVER,Peter T. GEORGE,United States of America,USA,1948
+london-1948,67.5-75kg middleweight men,Men,BRONZE,Sung-Jip KIM,Republic of Korea,KOR,1948
+london-1948,75-82.5kg total lightheavyweight men,Men,GOLD,Stanley Anthony STANCZYK,United States of America,USA,1948
+london-1948,75-82.5kg total lightheavyweight men,Men,SILVER,Harold Toshiyuki SAKATA,United States of America,USA,1948
+london-1948,75-82.5kg total lightheavyweight men,Men,BRONZE,Gösta MAGNUSSON,Sweden,SWE,1948
+london-1948,60-67.5kg lightweight men,Men,GOLD,Ibrahim Hassanein SHAMS,Egypt,EGY,1948
+london-1948,60-67.5kg lightweight men,Men,SILVER,Attia Mohammed,Egypt,EGY,1948
+london-1948,60-67.5kg lightweight men,Men,BRONZE,James HALLIDAY,Great Britain,GBR,1948
+london-1948,56 - 60kg (featherweight) men,Men,GOLD,Mahmoud FAYAD,Egypt,EGY,1948
+london-1948,56 - 60kg (featherweight) men,Men,SILVER,Rodney Adolphus WILKES,Trinidad and Tobago,TTO,1948
+london-1948,56 - 60kg (featherweight) men,Men,BRONZE,Jafar Mohammad SALMASSI,Islamic Republic of Iran,IRI,1948
+london-1948,56kg bantamweight men,Men,GOLD,Joe DePietro,United States of America,USA,1948
+london-1948,56kg bantamweight men,Men,SILVER,Julian CREUS,Great Britain,GBR,1948
+london-1948,56kg bantamweight men,Men,BRONZE,Richard Watt Sung TOM,United States of America,USA,1948
+berlin-1936,82.5kg heavyweight men,Men,GOLD,Josef MANGER,Germany,GER,1936
+berlin-1936,82.5kg heavyweight men,Men,SILVER,Vaclav PSENICKA,Czechoslovakia,TCH,1936
+berlin-1936,82.5kg heavyweight men,Men,BRONZE,Arnold LUHAÄÄR,Estonia,EST,1936
+berlin-1936,67.5-75kg middleweight men,Men,GOLD,Khadr El-Touni,Egypt,EGY,1936
+berlin-1936,67.5-75kg middleweight men,Men,SILVER,Rudolf ISMAYR,Germany,GER,1936
+berlin-1936,67.5-75kg middleweight men,Men,BRONZE,Adolf Wagner,Germany,GER,1936
+berlin-1936,60kg featherweight men,Men,GOLD,Anthony TERLAZZO,United States of America,USA,1936
+berlin-1936,60kg featherweight men,Men,SILVER,Saleh Mohamed SOLIMAN,Egypt,EGY,1936
+berlin-1936,60kg featherweight men,Men,BRONZE,Ibrahim Hassanein SHAMS,Egypt,EGY,1936
+berlin-1936,75-82.5kg total lightheavyweight men,Men,GOLD,Louis HOSTIN,France,FRA,1936
+berlin-1936,75-82.5kg total lightheavyweight men,Men,SILVER,Eugen DEUTSCH,Germany,GER,1936
+berlin-1936,75-82.5kg total lightheavyweight men,Men,BRONZE,Wasif Ibrahim,Egypt,EGY,1936
+berlin-1936,60-67.5kg lightweight men,Men,GOLD,Anwar Mousbah,Egypt,EGY,1936
+berlin-1936,60-67.5kg lightweight men,Men,GOLD,Robert FEIN,Austria,AUT,1936
+berlin-1936,60-67.5kg lightweight men,Men,BRONZE,Karl JANSEN,Germany,GER,1936
+los-angeles-1932,67.5-75kg middleweight men,Men,GOLD,Rudolf ISMAYR,Germany,GER,1932
+los-angeles-1932,67.5-75kg middleweight men,Men,SILVER,Carlo GALIMBERTI,Italy,ITA,1932
+los-angeles-1932,67.5-75kg middleweight men,Men,BRONZE,Karl HIPFINGER,Austria,AUT,1932
+los-angeles-1932,75-82.5kg total lightheavyweight men,Men,GOLD,Louis HOSTIN,France,FRA,1932
+los-angeles-1932,75-82.5kg total lightheavyweight men,Men,SILVER,Svend Egil Benjamin OLSEN,Denmark,DEN,1932
+los-angeles-1932,75-82.5kg total lightheavyweight men,Men,BRONZE,Henry Ludwig DUEY,United States of America,USA,1932
+los-angeles-1932,60kg featherweight men,Men,GOLD,Raymond SUVIGNY,France,FRA,1932
+los-angeles-1932,60kg featherweight men,Men,SILVER,Hans WÖLPERT,Germany,GER,1932
+los-angeles-1932,60kg featherweight men,Men,BRONZE,Anthony TERLAZZO,United States of America,USA,1932
+los-angeles-1932,60-67.5kg lightweight men,Men,GOLD,René DUVERGER,France,FRA,1932
+los-angeles-1932,60-67.5kg lightweight men,Men,SILVER,Hans HAAS,Austria,AUT,1932
+los-angeles-1932,60-67.5kg lightweight men,Men,BRONZE,Gastone PIERINI,Italy,ITA,1932
+los-angeles-1932,82.5kg heavyweight men,Men,GOLD,Jaroslav SKOBLA,Czechoslovakia,TCH,1932
+los-angeles-1932,82.5kg heavyweight men,Men,SILVER,Vaclav PSENICKA,Czechoslovakia,TCH,1932
+los-angeles-1932,82.5kg heavyweight men,Men,BRONZE,Josef STRASSBERGER,Germany,GER,1932
+amsterdam-1928,82.5kg heavyweight men,Men,GOLD,Josef STRASSBERGER,Germany,GER,1928
+amsterdam-1928,82.5kg heavyweight men,Men,SILVER,Arnold LUHAÄÄR,Estonia,EST,1928
+amsterdam-1928,82.5kg heavyweight men,Men,BRONZE,Jaroslav SKOBLA,Czechoslovakia,TCH,1928
+amsterdam-1928,75-82.5kg total lightheavyweight men,Men,GOLD,El Sayed Mohamed NOSSEIR,Egypt,EGY,1928
+amsterdam-1928,75-82.5kg total lightheavyweight men,Men,SILVER,Louis HOSTIN,France,FRA,1928
+amsterdam-1928,75-82.5kg total lightheavyweight men,Men,BRONZE,Jan Verheijen,Netherlands,NED,1928
+amsterdam-1928,60kg featherweight men,Men,GOLD,Franz Joseph ANDRYSEK,Austria,AUT,1928
+amsterdam-1928,60kg featherweight men,Men,SILVER,Pierino GABETTI,Italy,ITA,1928
+amsterdam-1928,60kg featherweight men,Men,BRONZE,Hans WÖLPERT,Germany,GER,1928
+amsterdam-1928,60-67.5kg lightweight men,Men,GOLD,Kurt HELBIG,Germany,GER,1928
+amsterdam-1928,60-67.5kg lightweight men,Men,GOLD,Hans HAAS,Austria,AUT,1928
+amsterdam-1928,60-67.5kg lightweight men,Men,BRONZE,Fernand ARNOUT,France,FRA,1928
+amsterdam-1928,67.5-75kg middleweight men,Men,GOLD,Roger FRANCOIS,France,FRA,1928
+amsterdam-1928,67.5-75kg middleweight men,Men,SILVER,Carlo GALIMBERTI,Italy,ITA,1928
+amsterdam-1928,67.5-75kg middleweight men,Men,BRONZE,August SCHEFFER,Netherlands,NED,1928
+paris-1924,60  675kg onetwo hand 5 events lightweight men,Men,GOLD,Edmond DECOTTIGNIES,France,FRA,1924
+paris-1924,60  675kg onetwo hand 5 events lightweight men,Men,SILVER,Anton ZWERINA,Austria,AUT,1924
+paris-1924,60  675kg onetwo hand 5 events lightweight men,Men,BRONZE,Bohumil DURDYS,Czechoslovakia,TCH,1924
+paris-1924,60kg onetwo hand 5 events featherweight men,Men,GOLD,Pierino GABETTI,Italy,ITA,1924
+paris-1924,60kg onetwo hand 5 events featherweight men,Men,SILVER,Andreas STADLER,Austria,AUT,1924
+paris-1924,60kg onetwo hand 5 events featherweight men,Men,BRONZE,Arthur REINMANN,Switzerland,SUI,1924
+paris-1924,75  825kg onetwo hand 5 e lightheavyweight men,Men,GOLD,Charles RIGOULOT,France,FRA,1924
+paris-1924,75  825kg onetwo hand 5 e lightheavyweight men,Men,SILVER,Fritz HÜNENBERGER,Switzerland,SUI,1924
+paris-1924,75  825kg onetwo hand 5 e lightheavyweight men,Men,BRONZE,Leopold FRIEDRICH,Austria,AUT,1924
+paris-1924,825kg onetwo hand 5 events heavyweight men,Men,GOLD,Giuseppe TONANI,Italy,ITA,1924
+paris-1924,825kg onetwo hand 5 events heavyweight men,Men,SILVER,Franz AIGNER,Austria,AUT,1924
+paris-1924,825kg onetwo hand 5 events heavyweight men,Men,BRONZE,Harald TAMMER,Estonia,EST,1924
+paris-1924,675  75kg onetwo hand 5 events middleweight men,Men,GOLD,Carlo GALIMBERTI,Italy,ITA,1924
+paris-1924,675  75kg onetwo hand 5 events middleweight men,Men,SILVER,Alfred NEULAND,Estonia,EST,1924
+paris-1924,675  75kg onetwo hand 5 events middleweight men,Men,BRONZE,Jaan KIKKAS,Estonia,EST,1924
+antwerp-1920,675  75kg onetwo hand 3 events middleweight men,Men,GOLD,Henri GANCE,France,FRA,1920
+antwerp-1920,675  75kg onetwo hand 3 events middleweight men,Men,SILVER,Pietro Ubaldo BIANCHI,Italy,ITA,1920
+antwerp-1920,675  75kg onetwo hand 3 events middleweight men,Men,BRONZE,Albert PETTERSSON,Sweden,SWE,1920
+antwerp-1920,60kg onetwo hand 3 events featherweight men,Men,GOLD,Frans DE HAES,Belgium,BEL,1920
+antwerp-1920,60kg onetwo hand 3 events featherweight men,Men,SILVER,Alfred SCHMIDT,Estonia,EST,1920
+antwerp-1920,60kg onetwo hand 3 events featherweight men,Men,BRONZE,Eugène RYTHER,Switzerland,SUI,1920
+antwerp-1920,75  825kg onetwo hand 3 e lightheavyweight men,Men,GOLD,Ernest CADINE,France,FRA,1920
+antwerp-1920,75  825kg onetwo hand 3 e lightheavyweight men,Men,SILVER,Fritz HÜNENBERGER,Switzerland,SUI,1920
+antwerp-1920,75  825kg onetwo hand 3 e lightheavyweight men,Men,BRONZE,Erik Pettersson,Sweden,SWE,1920
+antwerp-1920,825kg onetwo hand 3 events heavyweight men,Men,GOLD,Filippo BOTTINO,Italy,ITA,1920
+antwerp-1920,825kg onetwo hand 3 events heavyweight men,Men,SILVER,Jos Alzin,Luxembourg,LUX,1920
+antwerp-1920,825kg onetwo hand 3 events heavyweight men,Men,BRONZE,Louis BERNOT,France,FRA,1920
+antwerp-1920,60  675kg onetwo hand 3 events lightweight men,Men,GOLD,Alfred NEULAND,Estonia,EST,1920
+antwerp-1920,60  675kg onetwo hand 3 events lightweight men,Men,SILVER,Louis WILLIQUET,Belgium,BEL,1920
+antwerp-1920,60  675kg onetwo hand 3 events lightweight men,Men,BRONZE,Georges Florimond ROOMS,Belgium,BEL,1920
+st-louis-1904,heavyweight - two hand lift men,Men,GOLD,Periklis Kakousis,Greece,GRE,1904
+st-louis-1904,heavyweight - two hand lift men,Men,SILVER,Oscar Paul OSTHOFF,United States of America,USA,1904
+st-louis-1904,heavyweight - two hand lift men,Men,BRONZE,Franz Kugler,Germany,GER,1904
+st-louis-1904,All-around Dumbbell contest men,Men,GOLD,Oscar Paul OSTHOFF,United States of America,USA,1904
+st-louis-1904,All-around Dumbbell contest men,Men,SILVER,Fred Winter,United States of America,USA,1904
+st-louis-1904,All-around Dumbbell contest men,Men,BRONZE,Franz Kugler,Germany,GER,1904
+athens-1896,heavyweight - one hand lift men,Men,GOLD,Launceston ELLIOT,Great Britain,GBR,1896
+athens-1896,heavyweight - one hand lift men,Men,SILVER,Viggo JENSEN,Denmark,DEN,1896
+athens-1896,heavyweight - one hand lift men,Men,BRONZE,Alexandros Nikolopoulos,Greece,GRE,1896
+athens-1896,heavyweight - two hand lift men,Men,GOLD,Viggo JENSEN,Denmark,DEN,1896
+athens-1896,heavyweight - two hand lift men,Men,SILVER,Launceston ELLIOT,Great Britain,GBR,1896
+athens-1896,heavyweight - two hand lift men,Men,BRONZE,Sotirios VERSIS,Greece,GRE,1896
