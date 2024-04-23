@@ -1,0 +1,2 @@
+# Specify which files for Git to ignore when adding/pushing to the repo
+*.docx
